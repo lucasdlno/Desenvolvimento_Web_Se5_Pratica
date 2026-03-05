@@ -1,3 +1,5 @@
+#Criador: Lucas Gomes de Araujo
+
 # 📝 Resumo da Aula 01 - Desenvolvimento Web
 
 ## 👨‍💻 Sobre a Aula
