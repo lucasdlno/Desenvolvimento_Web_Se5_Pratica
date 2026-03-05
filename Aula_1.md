@@ -1,4 +1,4 @@
-#Criador: Lucas Gomes de Araujo
+# Criador: Lucas Gomes de Araujo
 
 # 📝 Resumo da Aula 01 - Desenvolvimento Web
 
